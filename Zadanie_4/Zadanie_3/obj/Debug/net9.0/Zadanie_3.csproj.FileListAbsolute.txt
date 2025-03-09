@@ -1,0 +1,14 @@
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\bin\Debug\net9.0\Zadanie_3.exe
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\bin\Debug\net9.0\Zadanie_3.deps.json
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\bin\Debug\net9.0\Zadanie_3.runtimeconfig.json
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\bin\Debug\net9.0\Zadanie_3.dll
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\bin\Debug\net9.0\Zadanie_3.pdb
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\Zadanie_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\Zadanie_3.AssemblyInfoInputs.cache
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\Zadanie_3.AssemblyInfo.cs
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\Zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\Zadanie_3.dll
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\refint\Zadanie_3.dll
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\Zadanie_3.pdb
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\Zadanie_3.genruntimeconfig.cache
+C:\Users\Fiuki\RiderProjects\Zadanie_3\Zadanie_3\obj\Debug\net9.0\ref\Zadanie_3.dll
