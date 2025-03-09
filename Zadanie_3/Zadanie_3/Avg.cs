@@ -6,7 +6,7 @@ public class Avg
     {
         if (numbers.Length == 0 || numbers == null)
         {
-            throw new ArgumentException("Array cannot be empty or null");
+            throw new ArgumentException("Array cannot be empty or null lalalalalal");
         }
 
         return numbers.Average();
